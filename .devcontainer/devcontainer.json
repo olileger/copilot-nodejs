@@ -4,6 +4,9 @@
     "features": {
 		"ghcr.io/devcontainers-contrib/features/mocha:2": {
 			"version": "latest"
+		},
+		"mcr.microsoft.com/azure-cli:latest": {
+			"version": "latest"
 		}
 	},
     "customizations": {
