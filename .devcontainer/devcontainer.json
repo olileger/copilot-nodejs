@@ -1,0 +1,17 @@
+{
+    "name": "GitHub Copilot Hackathon",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:dev-20",
+    "features": {
+		"ghcr.io/devcontainers-contrib/features/mocha:2": {
+			"version": "latest"
+		}
+	},
+    "customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"GitHub.copilot-chat"
+			]
+		}
+	}
+}

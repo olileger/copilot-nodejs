@@ -6,7 +6,6 @@ Demo project for running labs to evaluate Copilot viability
 
 ## Exercise 1: First Touch
 
-- Go to the exercisefile folder
 - Open `nodeserver.js` and begin by writing a Nod... NO NO NO!! Just CTRL+i and ask Copilot to do it ;)
 - Open `test.js` file and analyze the current test
 - Open a command prompt and run the test (`mocha test.js`)
