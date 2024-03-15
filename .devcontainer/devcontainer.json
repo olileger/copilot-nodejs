@@ -6,13 +6,5 @@
 			"version": "latest"
 		},
 		"azure-cli":"latest"
-    },
-    "customizations": {
-		"vscode": {
-			"extensions": [
-				"GitHub.copilot",
-				"GitHub.copilot-chat"
-			]
-		}
-	}
+    }
 }
